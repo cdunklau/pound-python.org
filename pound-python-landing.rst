@@ -6,10 +6,10 @@ The official Python_ IRC channel, on the Freenode_ network.
 Guidelines
 ==========
 
-1. Follow the Python Software Foundation's `Code of Conduct`_.
-2. Avoid strong or sexual language.
-3. Try to keep the discussion on-topic.
-4. Assume best intentions.
+- Follow the Python Software Foundation's `Code of Conduct`_.
+- Avoid strong or sexual language.
+- Try to keep the discussion on-topic.
+- Assume best intentions.
 
 
 .. _Python: https://www.python.org/
