@@ -3,6 +3,9 @@
 
 The official Python_ IRC channel, on the Freenode_ network.
 
+.. _Python: https://www.python.org/
+.. _Freenode: https://freenode.net/
+
 #python is a channel for discussing the Python programming language. People of
 all skill levels are welcome to participate.
 
@@ -28,9 +31,6 @@ take these guidelines to heart:
 -   Assume best intentions. People are in #python because they want to learn
     about Python, or because they want to help others with Python. 
 
-
-.. _Python: https://www.python.org/
-.. _Freenode: https://freenode.net/
 .. _Code of Conduct: https://www.python.org/psf/codeofconduct/
 
 
@@ -41,6 +41,8 @@ I get put in #python-unregistered when I try to join!
     #python requires you to register your nickname with Freenode. For more
     information about registering on Freenode, see the registration_ KB
     article, and if you still have trouble, ask in #freenode.
+
+.. _registration: http://freenode.net/kb/answer/registration
 
 My nickname is banned, what do I do?
     Ask in #python-ops for help.
