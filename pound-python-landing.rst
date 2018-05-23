@@ -42,7 +42,7 @@ I get put in #python-unregistered when I try to join!
     information about registering on Freenode, see the registration_ KB
     article, and if you still have trouble, ask in #freenode.
 
-.. _registration: http://freenode.net/kb/answer/registration
+.. _registration: https://freenode.net/kb/answer/registration
 
 My nickname is banned, what do I do?
     Ask in #python-ops for help.
