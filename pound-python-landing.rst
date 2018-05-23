@@ -1,3 +1,8 @@
+#python
+#######
+
+The official Python_ IRC channel, on the Freenode_ network.
+
 Guidelines
 ==========
 
@@ -7,4 +12,6 @@ Guidelines
 4. Assume best intentions.
 
 
+.. _Python: https://www.python.org/
+.. _Freenode: https://freenode.net/
 .. _Code of Conduct: https://www.python.org/psf/codeofconduct/
