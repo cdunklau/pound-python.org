@@ -1,3 +1,5 @@
+/* Taken from Docutils */
+
 /* CSS31_ style sheet for the output of Docutils HTML writers.             */
 /* Rules for easy reading and pre-defined style variants.      */
 /*                                                                         */
@@ -16,6 +18,9 @@
 /* .. _2-Clause BSD license: http://www.spdx.org/licenses/BSD-2-Clause     */
 /* .. _CSS3: http://www.w3.org/TR/CSS3                   */
 
+/* Modified by Colin Dunklau */
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 
 /* Document Structure */
 /* ****************** */
@@ -24,6 +29,7 @@
 body {
   padding: 0 5%;
   margin: 8px 0;
+  font-family: Raleway, Helvetica, Arial, sans-serif;
 }
 div.document {
   line-height:1.3;
@@ -276,7 +282,7 @@ div.footer, div.header {
 /*   span.docutils.literal { white-space: pre-wrap; } */
 
 /* Hyperlink References     */
-a { text-decoration: none; }
+a { text-decoration: underline; }
 
 /* External Targets         */
 /*   span.target.external   */
