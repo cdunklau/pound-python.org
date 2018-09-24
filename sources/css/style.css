@@ -283,7 +283,11 @@ div.footer, div.header {
 /*   cite       */
 /* Inline Literals          */
 /* possible values: normal, nowrap, pre, pre-wrap, pre-line */
-/*   span.docutils.literal { white-space: pre-wrap; } */
+span.docutils.literal {
+  font-family: Courier, monospace;
+  white-space: pre-wrap;
+  background-color: #eee;
+}
 
 /* Hyperlink References     */
 a { text-decoration: underline; }
